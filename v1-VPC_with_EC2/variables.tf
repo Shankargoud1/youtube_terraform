@@ -3,11 +3,11 @@ variable "location" {
 }
 
 variable "os_name" {
-    default = "ami-09ba48996007c8b50"
+    default = "ami-078efad6f7ec18b8a"
 }
 
 variable "key" {
-    default = "rtp-03"
+    default = "shankar-key"
 }
 
 variable "instance-type" {
