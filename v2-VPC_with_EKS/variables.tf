@@ -1,5 +1,5 @@
 variable "location" {
-    default = "ap-south-1"
+    default = "ap-northeast-1"
 }
 
 variable "os_name" {
@@ -7,7 +7,7 @@ variable "os_name" {
 }
 
 variable "key" {
-    default = "rtp-03"
+    default = "shankar-key"
 }
 
 variable "instance-type" {

@@ -1,9 +1,9 @@
 variable "location" {
-    default = "ap-south-1"
+    default = "ap-northeast-1"
 }
 
 variable "os_name" {
-    default = "ami-078efad6f7ec18b8a"
+    default = "ami-0d52744d6551d851e"
 }
 
 variable "key" {
@@ -23,5 +23,5 @@ variable "subnet1-cidr" {
   
 }
 variable "subent_az" {
-    default =  "ap-south-1a"  
+    default =  "ap-northeast-1a"  
 }
